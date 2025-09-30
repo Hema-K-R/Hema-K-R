@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img 
   src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 <img 
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img
   src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img
