@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img 
   src="https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white" />
 <img 
-  src="https://img.shields.io/badge/GitHub-E34F26?style=flat&logo=github&logoColor=white" />
+  src="https://img.shields.io/badge/GitHub-E34F26?style=flat&logo=github&logoColor=black" />
 </p>
 
 ### GitHub Stats 📊
