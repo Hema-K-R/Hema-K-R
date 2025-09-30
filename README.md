@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Hema K R👋
 
 <!--
 **Hema-K-R/Hema-K-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
