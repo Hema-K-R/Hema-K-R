@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently Student in CSE @ SJCIT , Chikkballapur
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **beginner-friendly projects & hackathons**
 - 💬 Ask me about **Python Basics , C , Java , HTML , CSS**
