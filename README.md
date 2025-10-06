@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **beginner-friendly projects & hackathons**
 - 💬 Ask me about **Python Basics , C , Java , HTML , CSS**
-- 📫 How to reach me: -> Email: hemagowdakr06@gmail.com 
-- ⚡ Fun fact:
+- 📫 How to reach me: -> Email: hemagowdakr06@gmail.com  -> Insta: hema_gowda_06   -> Linkedin: Hema K R
+- ⚡ Fun fact: 
 
 ### 🛠️ Languages and Tools 
 <p>
